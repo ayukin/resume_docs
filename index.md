@@ -4,7 +4,7 @@
 ## アカウント
 
 | Key | Value |
-| --- | --- |
+| :--- | :--- |
 | 名前 | 西岡鮎季（ Nishioka Ayuki ） |
 | Qiita | <https://qiita.com/0xTJtrFMRTbrbho> |
 | GitHub | <https://github.com/ayukin> |

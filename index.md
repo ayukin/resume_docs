@@ -2,11 +2,12 @@
 
 
 ## アカウント
+
 | Key | Value |
 | --- | --- |
 | 名前 | 西岡鮎季（ Nishioka Ayuki ） |
 | Qiita | <https://qiita.com/0xTJtrFMRTbrbho> |
-| Github| <https://github.com/ayukin> |
+| GitHub | <https://github.com/ayukin> |
 | twitter | <https://twitter.com/0xTJtrFMRTbrbho> |
 
 #### ポートフォリオ
